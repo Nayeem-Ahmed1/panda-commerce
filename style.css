@@ -119,6 +119,10 @@
 }
 
     /* Shoes Section */
+.container-fluid{
+    background-color: #F4F4F4;
+    border-radius: 10px;
+}
 
 .shoes-container #shoe-see-all,h2{
     display: inline-block;
@@ -131,6 +135,9 @@
 }
 .buyNow{
     margin-left: 105px;
+}
+.card{
+    box-shadow: 5px 5px 10px gray;
 }
 @media only screen and (max-width: 768px) {
     #navbarNav button{
