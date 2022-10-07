@@ -118,6 +118,20 @@
     margin-left: 27px;
 }
 
+    /* Shoes Section */
+
+.shoes-container #shoe-see-all,h2{
+    display: inline-block;
+}
+#shoe-see-all{
+    display: inline-block;
+    margin-left: 890px;
+    margin-bottom: 50px;
+    color: orange;
+}
+.buyNow{
+    margin-left: 105px;
+}
 @media only screen and (max-width: 768px) {
     #navbarNav button{
         margin: 10px 0;
